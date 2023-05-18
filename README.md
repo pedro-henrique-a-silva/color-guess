@@ -48,9 +48,9 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
 1. Clone o repositório
 
-- `git clone git@github.com:tryber/sd-0x-project-color-guess.git`
+- `git clone git@github.com:tryber/sd-033-a-project-color-guess.git`
 - Entre na pasta do repositório que você acabou de clonar:
-  - `cd sd-0x-project-color-guess`
+  - `cd sd-033-a-project-color-guess`
 
 2. Instale as dependências e inicialize o projeto
 
@@ -70,7 +70,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 4. Crie na raiz do projeto os arquivos que você precisará desenvolver:
 
 - Verifique que você está na raiz do projeto
-  - Exemplo: `pwd` -> o retorno vai ser algo tipo _/Users/joaozinho/code/**sd-0x-project-color-guess**_
+  - Exemplo: `pwd` -> o retorno vai ser algo tipo _/Users/joaozinho/code/**sd-033-a-project-color-guess**_
 - Crie os arquivos index.html, style.css e script.js
   - Exemplo: `touch index.html style.css script.js`
 
@@ -93,13 +93,13 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
 7. Crie um novo `Pull Request` _(PR)_
 
-- Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-0x-project-color-guess/pulls)
+- Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-033-a-project-color-guess/pulls)
 - Clique no botão verde _"New pull request"_
 - Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
 - Clique no botão verde _"Create pull request"_
 - Adicione uma descrição para o _Pull Request_, um título claro que o identifique, e clique no botão verde _"Create pull request"_
 - **Não se preocupe em preencher mais nada por enquanto!**
-- Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-project-color-guess/pulls) e confira que o seu _Pull Request_ está criado
+- Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-033-a-project-color-guess/pulls) e confira que o seu _Pull Request_ está criado
 
 </details>
 
@@ -130,7 +130,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   - No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
 
-  - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+  - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-033-a`.
 
   Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
 
@@ -195,7 +195,7 @@ Você também pode assistir a [este vídeo](https://vimeo.com/539240375/a116a166
 Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário.
 **Leva menos de 3 minutos!**
 
-[FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH)
+[FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_hidden=CH33-A&template=betrybe/sd-0x-project-color-guess)
 
 </details>
 
@@ -235,7 +235,7 @@ Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência 
 
     - No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
 
-    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-033-a`.
 
   Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
 
