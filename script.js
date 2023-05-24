@@ -1,5 +1,6 @@
 const pRgbColor = document.querySelector('#rgb-color');
 const pAnswer = document.querySelector('#answer');
+const buttonReset = document.querySelector('#reset-game');
 const sectionColor = document.querySelector('#colors');
 
 const generateRandomNumber = (number) => Math.floor(Math.random() * (number));
@@ -47,7 +48,17 @@ const eventColor = () => {
   });
 };
 
+const eventResetGame = () => {
+  buttonReset.addEventListener('click', () => {
+    sectionColor.innerHTML = '';
+    createDivColors();
+    pAnswer.innerText = 'Escolha uma cor';
+
+  })
+}
+
 window.onload = () => {
   createDivColors();
   eventColor();
+  eventResetGame();
 };
